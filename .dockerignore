@@ -1,0 +1,6 @@
+**/node_modules
+client/dist
+.git
+k8s
+puppet
+Jenkinsfile

@@ -1,0 +1,7 @@
+{
+  "name": "student-mgmt",
+  "version": "1.0.0",
+  "scripts": { "start": "node server.js", "test": "jest --ci" },
+  "dependencies": { "express": "^4.19.2", "mongoose": "^8.5.0" },
+  "devDependencies": { "jest": "^29.7.0", "supertest": "^7.0.0" }
+}
